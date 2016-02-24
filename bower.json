@@ -1,0 +1,26 @@
+{
+  "name": "ios-sample-rate-fix",
+  "authors": [
+    "Carlos Lawton <blakgeek@gmail.com>"
+  ],
+  "description": "A small hack to fix distorted audio due to iOS setting the default sample rate to 48,000",
+  "main": "audioFix.js",
+  "moduleType": [],
+  "keywords": [
+    "ios",
+    "audio",
+    "distortion",
+    "sample",
+    "rate",
+    "samplerate"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
